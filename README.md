@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # noticue
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Noticue
+# Noticue  A simple smart reminder and notification app built with Flutter.
+>>>>>>> 7ca9da4917a4e1ad71d42b112f4ea2d3903bb8ec
